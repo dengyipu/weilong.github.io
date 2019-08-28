@@ -21,11 +21,10 @@ date_format = "Jan 2006"
   title = "Operations Research and Information Technology Intern"
   company = "Norfolk Southern"
   company_url = ""
-  location = "Atlanta, GA"
+  location = "Atlanta"
   date_start = "2018-05-20"
   date_end = "2018-08-10"
   description = """
   """
-
-
+  
 +++
