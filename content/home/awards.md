@@ -68,8 +68,8 @@ subtitle = ""
  css_class = ""
 +++
 
-Best Paper, 13th China Summer Workshop on Information Management, 2019
+**Best Paper**, _13th China Summer Workshop on Information Management_, 2019
 
-Mao Yisheng Graduate Fellowship, Carnegie Mellon University, 2018
+**Mao Yisheng Graduate Fellowship**, _Carnegie Mellon University_, 2018
 
-Dean's Fellowship, Carnegie Mellon University, 2017
+**Dean's Fellowship**, _Carnegie Mellon University_, 2017
