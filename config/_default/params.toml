@@ -150,6 +150,22 @@ sharing = true
   publication_view = 2
   talk_view = 2
 
+# Comments.
+[comments]
+  # Comment provider:
+  #   0: Disabled
+  #   1: Disqus (https://disqus.com)
+  #   2: Commento (https://commento.io)
+  engine = 0
+
+  # Which page types are commentable?
+  commentable = {page = false, post = false, docs = false, project = false, publication = false, talk = false}
+
+  # Configuration of Disqus.
+  [comments.disqus]
+    shortname = ""  # Paste the shortname from your Disqus dashboard.
+    show_count = false  # Show comment count in page header? (true/false)
+
 # Search.
 [search]
   # Search provider:
