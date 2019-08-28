@@ -15,7 +15,9 @@ weight = 100
 
 +++
 
-I currently teach the following courses at Wharton, both of which are next being offered in Spring 2019.
+Teaching Assistant
 
-- **OIDD 215**: Intro to Analytics & the Digital Economy [[Syllabus]](http://prasannatambe.com/oidd215/oidd215_syllabus.html)
-- **OIDD 245**: Advanced Analytics & the Digital Economy [[Syllabus]](http://prasannatambe.com/oidd245/oidd245_syllabus.html)
+- **MGMT 683-00**: Information Technology for Managers , Purdue University, Summer 2019
+
+- **12-704**: Probability and Estimation Methods for Engineering Systems, Carnegie Mellon University, Fall 2017 
+
