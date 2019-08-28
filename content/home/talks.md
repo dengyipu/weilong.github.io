@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Conference Presentations"
 subtitle = ""
 
 [content]
@@ -67,3 +67,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+W. Wang, J. Zheng and K. Kannan, "Information Affecting Market Efficiency and Fairness: Estimating a Structural Model for Transportation Network", the 13th China Summer Workshop on Information Management, Shenzhen, June 2019. 
+
+W. Wang, A. Jacquillat and V. Vaze, "Strategic Behaviors In Airport Capacity Allocation Mechanisms", INFORMS Annual Meeting, Phoenix, AZ, Nov 2018. 
+
+S. Lu, W. Wang, C. Lin, E. Hameen, "Adaptive and Personalized Thermal Comfort-based HVAC Control in Real Office Environment", INFORMS Annual Meeting, Phoenix, AZ, Nov 2018.
+
+W. Wang, A. Jacquillat and V. Vaze, "Strategic Behaviors in Non-monetary Mechanisms for Infrastructure Capacity Allocation", POMS Hong Kong, Hong Kong, China, Jan 2018.
