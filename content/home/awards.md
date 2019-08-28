@@ -67,3 +67,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Best Paper, 13th China Summer Workshop on Information Management, 2019
+
+Mao Yisheng Graduate Fellowship, Carnegie Mellon University, 2018
+
+Dean's Fellowship, Carnegie Mellon University, 2017
