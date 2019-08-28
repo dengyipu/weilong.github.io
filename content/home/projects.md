@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
+title = "Working Papers"
 subtitle = ""
 
 [content]
@@ -74,4 +74,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+W. Wang, J. Zheng, K. Kannan and F. Ren, **Estimate the Value of Destination Disclosure: a Dynamic Structural Model of Transportation Network**, in preparation.
 
+W. Wang, A. Jacquillat and V. Vaze, **Primary vs. Secondary Mechanisms for Infrastructure Capacity Allocation when Users are Strategic**, under review at _Operations Research_.
+
+S. Lu, W. Wang, E. Hameen, **Thermal comfort-based personalized models with non-intrusive sensing technique in office buildings**, under review at _Building and Environment_
