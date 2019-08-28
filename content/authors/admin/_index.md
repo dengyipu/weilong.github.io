@@ -21,21 +21,21 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Economic of IS
+- Ubran Transportation
+- Data-driven Decision Making
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Management Information System
+    institution: Purdue University
+    year: Expected 2022
+  - course: M.S. in Advanced Infrastructure System
+    institution: Carnegie Mellon University
+    year: 2018
+  - course: B.Sc. in Physics
+    institution: Fudan University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto: wang4167@purdue.edu
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=pgsHtv0AAAAJ&hl=en
