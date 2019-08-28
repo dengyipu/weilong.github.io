@@ -68,10 +68,10 @@ subtitle = ""
  css_class = ""
 +++
 
-W. Wang, J. Zheng and K. Kannan, "Information Affecting Market Efficiency and Fairness: Estimating a Structural Model for Transportation Network", the 13th China Summer Workshop on Information Management, Shenzhen, June 2019. 
+W. Wang, J. Zheng and K. Kannan, **Information Affecting Market Efficiency and Fairness: Estimating a Structural Model for Transportation Network**, _the 13th China Summer Workshop on Information Management_, Shenzhen, China, June 2019. 
 
-W. Wang, A. Jacquillat and V. Vaze, "Strategic Behaviors In Airport Capacity Allocation Mechanisms", INFORMS Annual Meeting, Phoenix, AZ, Nov 2018. 
+W. Wang, A. Jacquillat and V. Vaze, **Strategic Behaviors In Airport Capacity Allocation Mechanisms**, _INFORMS Annual Meeting_, Phoenix, AZ, Nov 2018. 
 
-S. Lu, W. Wang, C. Lin, E. Hameen, "Adaptive and Personalized Thermal Comfort-based HVAC Control in Real Office Environment", INFORMS Annual Meeting, Phoenix, AZ, Nov 2018.
+S. Lu, W. Wang, C. Lin, E. Hameen, **Adaptive and Personalized Thermal Comfort-based HVAC Control in Real Office Environment**, _INFORMS Annual Meeting_, Phoenix, AZ, Nov 2018.
 
-W. Wang, A. Jacquillat and V. Vaze, "Strategic Behaviors in Non-monetary Mechanisms for Infrastructure Capacity Allocation", POMS Hong Kong, Hong Kong, China, Jan 2018.
+W. Wang, A. Jacquillat and V. Vaze, **Strategic Behaviors in Non-monetary Mechanisms for Infrastructure Capacity Allocation**, _POMS Hong Kong_, Hong Kong, China, Jan 2018.
