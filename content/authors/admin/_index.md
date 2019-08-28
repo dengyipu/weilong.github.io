@@ -15,10 +15,7 @@ role: PhD Student in Management Information System
 # Organizations/Affiliations
 organizations:
 - name: Krannert School of Management
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+  url: "https://krannert.purdue.edu/"
 
 interests:
 - Economic of IS
