@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Weilong Wang
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in Management Information System
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Krannert School of Management
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Artificial Intelligence
@@ -45,15 +45,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=pgsHtv0AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Rossweilong
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +67,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Weilong is a PhD student in Management in Information System at Krannert School of Management, Purdue University. He was a PhD student in the Department of Civil & Environment Engineering at Carnegie Mellon University.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+His research applies statistical models and optimization methods to solve complex operations problems. He was fortunately advised by Professor Alexandre Jacquillat at Heinz College, Carnegie Mellon University.
+
+In addition to his research, Weilong worked with Norfolk Southern Railway and Citi Bank, Shanghai to resolve real-world operational problems in transportation, logistics and organization. He received a Master of Science in Advanced Infrastructure System from CMU, a Bachelor of Science in Physics from Fudan University.
