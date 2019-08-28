@@ -26,7 +26,7 @@ education:
   courses:
   - course: PhD in Management Information System
     institution: Purdue University
-    year: 2022
+    year: 2022(Expected)
   - course: M.S. in Advanced Infrastructure System
     institution: Carnegie Mellon University
     year: 2018
