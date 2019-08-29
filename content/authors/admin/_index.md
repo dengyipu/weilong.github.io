@@ -57,10 +57,6 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-[design.spacing]
-# Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
