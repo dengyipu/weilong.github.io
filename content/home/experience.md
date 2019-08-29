@@ -1,7 +1,7 @@
 +++
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20", "0", "20", "0"]
+  padding = ["40", "0", "40", "0"]
 
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
