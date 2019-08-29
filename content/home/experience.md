@@ -1,16 +1,4 @@
 +++
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
-
-[advanced]
- # Custom CSS. 
- css_style = "padding-top: 20px; padding-bottom: 20px;"
- css_style = ""
-
- # CSS class.
- css_class = ""
-
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
