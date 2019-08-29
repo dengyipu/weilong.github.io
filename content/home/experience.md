@@ -1,7 +1,4 @@
 +++
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["200px", "0", "200px", "0"]
 
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
@@ -11,6 +8,17 @@ weight = 20  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
+
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
