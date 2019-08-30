@@ -64,7 +64,7 @@ user_groups:
 - Visitors
 ---
 
-Weilong is a PhD student in Management in Information System at Krannert School of Management, Purdue University. He was a PhD student in the Department of Civil & Environment Engineering at Carnegie Mellon University.
+Weilong Wang is a PhD student in [Management in Information System](https://krannert.purdue.edu/academics/MIS/) at Krannert School of Management, Purdue University. He was a PhD student in the [Department of Civil & Environment Engineering](https://www.cmu.edu/cee/) at Carnegie Mellon University.
 
 His research applies statistical models and optimization methods to solve complex operations problems. He was fortunately advised by Professor [Alexandre Jacquillat](https://mitsloan.mit.edu/faculty/directory/alexandre-jacquillat), now at Sloan School of Management, [Massachusetts Institute of Technology](http://www.mit.edu/).
 
