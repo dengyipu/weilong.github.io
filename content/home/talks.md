@@ -71,6 +71,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+W. Wang, J. Zheng, K. Kannan and Fei Ren, **Estimating the Value of Destination Disclosure: a Dynamic Structural Model in a Transportation Network**, _the 30th Workshop on Information Systems and Economics_, Munich, Germany, December, 2019.
+
 
 W. Wang, J. Zheng and K. Kannan, **Information Affecting Market Efficiency and Fairness: Estimating a Structural Model for Transportation Network**, _the 13th China Summer Workshop on Information Management_, Shenzhen, China, June 2019. 
 
