@@ -21,7 +21,11 @@ weight = 100
 
 Teaching Assistant
 
-- **MGMT 683-00**: Information Technology for Managers , Purdue University, Summer 2019
+- **MGMT 687-00**: Designing for Instincts: Social Networks and Engagements, Purdue University, Spring 2020
+
+- **MGMT 683-00**: IT for Innovation and Competitive Advantage, Purdue University, Spring 2020
+
+- **MGMT 683-00**: Information Technology for Managers, Purdue University, Summer 2019
 
 - **12-704**: Probability and Estimation Methods for Engineering Systems, Carnegie Mellon University, Fall 2017 
 
