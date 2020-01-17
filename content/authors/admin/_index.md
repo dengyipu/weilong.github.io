@@ -64,8 +64,8 @@ user_groups:
 - Visitors
 ---
 
-Weilong Wang is a PhD student in [Management in Information System](https://krannert.purdue.edu/academics/MIS/) at Krannert School of Management, Purdue University. He was a PhD student in the [Department of Civil & Environment Engineering](https://www.cmu.edu/cee/) at Carnegie Mellon University.
+Weilong Wang is a PhD student in [Management in Information System](https://krannert.purdue.edu/academics/MIS/) at Krannert School of Management, Purdue University. He was a PhD student in the [Department of Civil & Environment Engineering](https://www.cmu.edu/cee/) at Carnegie Mellon University. He is fortunately advised by Professor [Karthik Kannan](https://www.krannert.purdue.edu/faculty/kkarthik/) and [Jinyang Zheng](https://www.krannert.purdue.edu/faculty/zheng221/).
 
-His research applies statistical models and optimization methods to solve complex operations problems. He was fortunately advised by Professor [Alexandre Jacquillat](https://mitsloan.mit.edu/faculty/directory/alexandre-jacquillat), now at Sloan School of Management, [Massachusetts Institute of Technology](http://www.mit.edu/).
+His research applies statistical models and optimization methods to solve complex economics and operations problems. He was fortunately advised by Professor [Alexandre Jacquillat](https://mitsloan.mit.edu/faculty/directory/alexandre-jacquillat), from Sloan School of Management, [Massachusetts Institute of Technology](http://www.mit.edu/).
 
 In addition to his research, Weilong worked with Norfolk Southern Railway and Citi Bank, Shanghai to resolve real-world operational problems in transportation, logistics and organization. He received a Master of Science in Advanced Infrastructure System from CMU, a Bachelor of Science in Physics from Fudan University.
