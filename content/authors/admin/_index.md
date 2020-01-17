@@ -24,7 +24,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Management Information System
+  - course: Ph.D. in Management Information System
     institution: Purdue University
     year: 2022(Expected)
   - course: M.S. in Advanced Infrastructure System
