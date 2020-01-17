@@ -1,5 +1,5 @@
 +++
-title = "Data-driven simulation of a thermal comfort-based temperature set-point control with ASHRAE RP884"
+title = "Data-driven Simulation of a Thermal Comfort-based Temperature Set-point Control with ASHRAE RP884"
 date = 2019-03-06T00:00:00
 draft = false
 
