@@ -19,7 +19,7 @@ organizations:
 
 interests:
 - Economic of IS
-- Ubran Transportation
+- Urban Transportation
 - Data-driven Decision Making
 
 education:
