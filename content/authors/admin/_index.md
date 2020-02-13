@@ -40,7 +40,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: cv
-  icon_pack: fab
+  icon_pack: ai
   link: https://drive.google.com/file/d/1r_yxt1_H7xAY7yJRnN70QWfSy46DebU6/view?usp=sharing
 - icon: google-scholar
   icon_pack: ai
