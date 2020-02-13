@@ -39,21 +39,25 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:wang4167@purdue.edu
+- icon: cv
+  icon_pack: fab
+  link: https://drive.google.com/file/d/1r_yxt1_H7xAY7yJRnN70QWfSy46DebU6/view?usp=sharing
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=pgsHtv0AAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/weilongross
 - icon: github
   icon_pack: fab
   link: https://github.com/Rossweilong
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Weilong64498476
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/weilongross 
+- icon: envelope
+  icon_pack: fas
+  link: mailto:wang4167@purdue.edu
+ 
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
