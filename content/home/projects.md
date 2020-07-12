@@ -80,6 +80,8 @@ subtitle = ""
 +++
 W. Wang, J. Zheng, K. Kannan and F. Ren, **Estimate the Value of Destination Disclosure: a Dynamic Structural Model of Transportation Network**, in preparation.
 
-W. Wang, A. Jacquillat and V. Vaze, **Primary vs. Secondary Mechanisms for Infrastructure Capacity Allocation when Users are Strategic**, under review at _Operations Research_.
+W. Wang, A. Jacquillat and V. Vaze, **Primary vs. Secondary Mechanisms for Infrastructure Capacity Allocation when Users are Strategic**, under review at _Mathematics of Operations Research_.
+
+B. Liu*, W. Wang*, **The Value of Online Influencers in Fast Fashion: Flexible Supply Chain and Advertising**, under review at _Management Science_. (* Equal contributions)
 
 S. Lu, W. Wang, E. Hameen, **Thermal comfort-based personalized models with non-intrusive sensing technique in office buildings**, under review at _Building and Environment_
