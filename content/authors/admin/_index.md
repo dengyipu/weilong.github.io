@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Weilong Wang
+name: Yipu Deng
 
 # Username (this should match the folder name)
 authors:
@@ -18,20 +18,18 @@ organizations:
   url: "https://krannert.purdue.edu/"
 
 interests:
-- Economic of IS
-- Urban Transportation
-- Data-driven Decision Making
+- Artificial Intelligence
+- Crowdfunding
+- User-generated Content
+- Sharing Economy
 
 education:
   courses:
   - course: Ph.D. in Management Information System
     institution: Purdue University
-    year: 2022(Expected)
-  - course: M.S. in Advanced Infrastructure System
-    institution: Carnegie Mellon University
-    year: 2018
-  - course: B.Sc. in Physics
-    institution: Fudan University
+    year: 2021(Expected)
+  - course: B.B.A. in Management Information System
+    institution: Shanghai University of Finance and Economics
     year: 2016
 
 # Social/Academic Networking
@@ -41,22 +39,10 @@ education:
 social:
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1r_yxt1_H7xAY7yJRnN70QWfSy46DebU6/view?usp=sharing
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=pgsHtv0AAAAJ&hl=en
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/weilongross
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Rossweilong
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Weilong64498476
+  link: https://drive.google.com/file/d/1VEzOn-VVynTiwehVcw92PdjJ_o_Khsup/view?usp=sharing
 - icon: envelope
   icon_pack: fas
-  link: mailto:wang4167@purdue.edu
+  link: mailto:deng127@purdue.edu
  
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -75,8 +61,8 @@ user_groups:
 - Visitors
 ---
 
-Weilong Wang is a PhD student in [Management in Information System](https://krannert.purdue.edu/academics/MIS/) at Krannert School of Management, Purdue University. He was a PhD student in the [Department of Civil & Environment Engineering](https://www.cmu.edu/cee/) at Carnegie Mellon University. He is fortunately advised by Professor [Karthik Kannan](https://www.krannert.purdue.edu/faculty/kkarthik/) and [Jinyang Zheng](https://www.krannert.purdue.edu/faculty/zheng221/).
+I am a doctoral student in [Management in Information System](https://krannert.purdue.edu/academics/MIS/) at Krannert School of Management, Purdue University. I am fortunately advised by Professor [Karthik Kannan](https://www.krannert.purdue.edu/faculty/kkarthik/) and [Jinyang Zheng](https://www.krannert.purdue.edu/faculty/zheng221/).
 
-His research applies statistical models and optimization methods to solve complex economics and operations problems. He was fortunately advised by Professor [Alexandre Jacquillat](https://mitsloan.mit.edu/faculty/directory/alexandre-jacquillat), from Sloan School of Management, [Massachusetts Institute of Technology](http://www.mit.edu/).
+My research is about the dynamics of human behaviors in the machine-platform-crowd transformation. I use machine learning, econometrics, and structural modeling methods to study the transformational impacts of information technology on human behaviors.  
 
-In addition to his research, Weilong worked with Norfolk Southern Railway and Citi Bank, Shanghai to resolve real-world operational problems in transportation, logistics and organization. He received a Master of Science in Advanced Infrastructure System from CMU, a Bachelor of Science in Physics from Fudan University.
+Prior to joining Purdue, I completed my undergraduate study at Shanghai University of Finance and Economics, China in 2016.
