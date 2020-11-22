@@ -72,8 +72,8 @@ subtitle = ""
  css_class = ""
 +++
 
-**Best Paper**, _13th China Summer Workshop on Information Management_, 2019
+**Certificate for Outstanding Research**, _Purdue University_, 2019&2020
 
-**Mao Yisheng Graduate Fellowship**, _Carnegie Mellon University_, 2018
+**Certificate for Distinguished Teaching**, _Krannert School of Management_, 2020
 
-**Dean's Fellowship**, _Carnegie Mellon University_, 2017
+**Best Student Paper Award Runner-up**, _Conference on Information Systems and Technology(CIST)_, 2018
