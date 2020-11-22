@@ -78,10 +78,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-W. Wang, J. Zheng, K. Kannan and F. Ren, **Estimate the Value of Destination Disclosure: a Dynamic Structural Model of Transportation Network**, in preparation.
+Y. Deng, J. Zheng, W. Khern-am-nuai, and K. Kannan, More than the Quantity: The Value of Editorial Reviews for a UGC Platform, Invited for the second round of review at **Management Science**.
 
-W. Wang, A. Jacquillat and V. Vaze, **Primary vs. Secondary Mechanisms for Infrastructure Capacity Allocation when Users are Strategic**, under review at _Mathematics of Operations Research_.
+Y. Deng, J. Zheng, Liqiang Huang, and K. Kannan, Let Artificial Intelligence Be Your Shelf Watchdog: The Impact of AI-powered Shelf Monitoring on Product Sales, Invited for the second round of review at **Management Information Systems Quarterly**.
 
-B. Liu*, W. Wang*, **The Value of Online Influencers in Fast Fashion: Flexible Supply Chain and Advertising**, under review at _Management Science_. (* Equal contributions)
+Y. Deng, J. Zheng, G. Li, and K. Kannan, When Donation Meets Reward: An Empirical Examination of Contribution Dynamics in Crowdfunding, Research in Progress.
 
-S. Lu, W. Wang, E. Hameen, **Thermal comfort-based personalized models with non-intrusive sensing technique in office buildings**, under review at _Building and Environment_
+Y. Deng, Z. Wei, and K. Kannan, Dockless Bike Sharing: Convenience or Congestion? Evidence on Air Quality and Housing Prices, Research in Progress.
+
+Y. Deng, A. Cortes Selva, and D. Zhang, Discrimination Towards Chinese Products in COVID19: Evidence from Amazon, Research in Progress.
