@@ -40,9 +40,13 @@ social:
 - icon: cv
   icon_pack: ai
   link: https://drive.google.com/file/d/1VEzOn-VVynTiwehVcw92PdjJ_o_Khsup/view?usp=sharing
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=myph5TQAAAAJ
 - icon: envelope
   icon_pack: fas
   link: mailto:deng127@purdue.edu
+
  
   
 # Link to a PDF of your resume/CV from the About widget.
