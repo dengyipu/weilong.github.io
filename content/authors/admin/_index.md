@@ -45,7 +45,7 @@ social:
   link: https://scholar.google.com/citations?hl=en&user=myph5TQAAAAJ
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/yipu-deng
+  link: www.linkedin.com/in/yipudeng
 - icon: github
   icon_pack: fab
   link: https://github.com/dengyipu
