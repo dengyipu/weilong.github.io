@@ -43,6 +43,12 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=myph5TQAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: www.linkedin.com/in/yipu-deng-70939b137
+- icon: github
+  icon_pack: fab
+  link: https://github.com/dengyipu
 - icon: envelope
   icon_pack: fas
   link: mailto:deng127@purdue.edu
