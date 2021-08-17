@@ -78,7 +78,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-Y. Deng, J. Zheng, Liqiang Huang, and K. Kannan, "Let Artificial Intelligence Be Your Shelf Watchdog: The Impact of AI-powered Shelf Monitoring on Product Sales", Invited for the second round of review at **Management Information Systems Quarterly**.
+Y. Deng, J. Zheng, L. Huang, and K. Kannan, "Let Artificial Intelligence Be Your Shelf Watchdog: The Impact of AI-powered Shelf Monitoring on Product Sales", Invited for the second round of review at **Management Information Systems Quarterly**.
 
 Y. Deng, J. Zheng, G. Li, and K. Kannan, "When Donation Meets Reward: An Empirical Examination of Contribution Dynamics in Crowdfunding", Research in Progress.
 
