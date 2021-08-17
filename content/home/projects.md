@@ -78,7 +78,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-Y. Deng, J. Zheng, W. Khern-am-nuai, and K. Kannan, "More than the Quantity: The Value of Editorial Reviews for a UGC Platform", Invited for the second round of review at **Management Science**.
+'''Y. Deng, J. Zheng, W. Khern-am-nuai, and K. Kannan, "More than the Quantity: The Value of Editorial Reviews for a UGC Platform", Invited for the second round of review at **Management Science**.'''
 
 Y. Deng, J. Zheng, Liqiang Huang, and K. Kannan, "Let Artificial Intelligence Be Your Shelf Watchdog: The Impact of AI-powered Shelf Monitoring on Product Sales", Invited for the second round of review at **Management Information Systems Quarterly**.
 
