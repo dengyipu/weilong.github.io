@@ -21,6 +21,6 @@ weight = 100
 
 Course Developer & Instructor
 
-- **MGMT 479**: Data Visualization, Purdue University, Spring 2020
+- **MGMT 479**: Data Visualization, Purdue University, Spring 2020 & Spring 2021
 
 - Course Evaluation: 5.0/5.0
