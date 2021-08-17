@@ -18,7 +18,7 @@ authors = ["Y. Deng", "J. Zheng", "W. Khern-am-nuai", "K. Kannan"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Management Science*"
+publication = "**Management Science**"
 publication_short = "**Management Science**"
 
 # Abstract and optional shortened version.
