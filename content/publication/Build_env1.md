@@ -4,7 +4,7 @@ date = 2019-03-06T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["S. Lu", "W Wang", "C. Lin", "E. Hameen"]
+authors = ["Y. Deng", "J. Zheng", "W. Khern-am-nuai", "K. Kannan"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["S. Lu", "W Wang", "C. Lin", "E. Hameen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Building and Environment*"
-publication_short = "*Building and Environment*"
+publication = "*Management Science*"
+publication_short = "*MS*"
 
 # Abstract and optional shortened version.
-abstract = "In the course of thermal comfort theory, researchers have been investigating both static thermal comfort and adaptive thermal comfort. Compared to static thermal comfort metrics such as predicted mean vote (PMV), adaptive thermal comfort emphasizes the interactions between occupants and indoor environment by collecting both environment-related and occupant-related data in real commercial buildings. Therefore, data-driven approaches to developing adaptive thermal comfort models have been well investigated and development of ASHRAE RP884 dataset can be seen as one of the milestones. Moreover, as thermal comfort is an occupant-centric concept for operation of HVAC system, well-developed thermal comfort model can be applied into HVAC control. Nowadays, reinforcement learning-based HVAC control has drawn much more attention in that the control system can learn by itself through the interactions between occupants and environment, which also aligns the concept of adaptive thermal comfort. Therefore, this paper mainly has two goals. The first is to develop a thermal comfort model with RP 884 of three major climate zones based on k-nearest neighbor (KNN), random forest (RF) and support vector machine (SVM). The second goal is to simulate a tabular Q-learning temperature set-point control system with the statistical thermal comfort model. The results have shown that the best recall of the statistical thermal comfort model is 49.3%, which outperforms that of PMV being 43% based on 7-point thermal sensation scale. In addition, the Q-learning based temperature control can indeed reach the comfortable temperature ranges for occupants with whatever initial temperature set-point."
+abstract = "We investigate an editorial review program for which a review platform supplements user reviews with editorial ones written by professional writers. Specifically, we examine whether and how editorial reviews influence subsequent user reviews (reviews written by non-editor reviewers). A quasi-experiment conducted on a leading review platform in Asia, based on several econometric and natural language processing techniques, yields empirical evidence of an overall positive effect of editorial reviews on subsequent user reviews from the platform’s perspective. More reviews are provided for restaurants that receive editorial reviews, suggesting a herding effect, as users are more inclined to follow editors’ choice of restaurants to review. These reviews discuss substantive topics while also including a discussion on other topics, leading to a net increase in content length and variety. They also are more neutral in sentiment and are associated with lower rating valences. Further analysis of the mechanism reveals that the subsequent user reviews of the restaurants that receive editorial reviews become more similar to the editorial reviews in regard to topics, sentiment/rating, length, and readability, indicating a herding effect in how to write a review as the main driver of the change in the subsequent reviews. We further empirically isolate this herding effect among long-time reviewers. The findings suggest that review platforms could use an editorial review program to not only boost review quantity but also manage the content quality. By supplementing high-quality editorial reviews with user reviews, the platform can improve the overall content quality of user reviews."
 
 #Featured image thumbnail (optional)
 image_preview = ""
@@ -42,7 +42,7 @@ selected = true
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S0360132319301647"
+url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3460070"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
