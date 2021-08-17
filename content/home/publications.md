@@ -70,4 +70,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
 Y. Deng, J. Zheng, W. Khern-am-nuai, and K. Kannan, "More than the Quantity: The Value of Editorial Reviews for a UGC Platform", forthcoming in **Management Science**.
