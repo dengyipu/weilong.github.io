@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Management Information System
+role: Assistant Professor in Management Information System
 
 # Organizations/Affiliations
 organizations:
-- name: Krannert School of Management
-  url: "https://krannert.purdue.edu/"
+- name: HKU Business School
+  url: "https://www.fbe.hku.hk/"
 
 interests:
 - Artificial Intelligence
@@ -27,7 +27,7 @@ education:
   courses:
   - course: Ph.D. in Management Information System
     institution: Purdue University
-    year: 2021(Expected)
+    year: 2021
   - course: B.B.A. in Management Information System
     institution: Shanghai University of Finance and Economics
     year: 2016
@@ -48,7 +48,7 @@ social:
   link: https://github.com/dengyipu
 - icon: envelope
   icon_pack: fas
-  link: mailto:deng127@purdue.edu
+  link: mailto:yipudeng@hku.hk
 
  
   
@@ -68,8 +68,7 @@ user_groups:
 - Visitors
 ---
 
-I am a doctoral student in [Management in Information System](https://krannert.purdue.edu/academics/MIS/) at Krannert School of Management, Purdue University. I am fortunately advised by Professor [Karthik Kannan](https://www.krannert.purdue.edu/faculty/kkarthik/) and [Jinyang Zheng](https://www.krannert.purdue.edu/faculty/zheng221/).
+I am an assistant professor in [Innovation and Information Management](https://www.fbe.hku.hk/people/faculty?pg=1&staff_type=faculty&subject_area=innovation-and-information-management&track=professoriate) at HKU Business School. I am fortunately advised by Professor [Karthik Kannan](https://www.krannert.purdue.edu/faculty/kkarthik/) and [Jinyang Zheng](https://www.krannert.purdue.edu/faculty/zheng221/).
 
 My research is about the dynamics of human behaviors in the machine-platform-crowd transformation. I use machine learning, econometrics, and structural modeling methods to study the transformational impacts of information technology on human behaviors.  
 
-Prior to joining Purdue, I completed my undergraduate study at Shanghai University of Finance and Economics, China in 2016.
