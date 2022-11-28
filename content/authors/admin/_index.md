@@ -18,8 +18,8 @@ organizations:
   url: "https://www.fbe.hku.hk/"
 
 interests:
-- Artificial Intelligence
 - Crowdfunding
+- Economics of AI
 - User-generated Content
 - Sharing Economy
 
