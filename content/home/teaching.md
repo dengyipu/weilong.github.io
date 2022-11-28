@@ -21,7 +21,7 @@ weight = 100
 
 Course Developer & Instructor
 
-- **MGMT 479**: Data Visualization, Purdue University, Spring 2020 & Spring 2021
+- **MGMT 479**: Data Visualization, Purdue University, Spring 2020 & 2021
 
 - Course Evaluation: 4.4~5.0/5.0
 
@@ -29,4 +29,4 @@ Instructor
 
 - **IIMT 3636**: Decision and Risk Analysis, University of Hong Kong, Spring 2022
 
-- Course Evaluation: 85-90/100
+- Course Evaluation: 85~90/100
