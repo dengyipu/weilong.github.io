@@ -78,10 +78,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-Y. Deng, J. Zheng, L. Huang, and K. Kannan, "Let Artificial Intelligence Be Your Shelf Watchdog: The Impact of AI-powered Shelf Monitoring on Product Sales", Invited for the second round of review at **Management Information Systems Quarterly**.
 
 Y. Deng, J. Zheng, G. Li, and K. Kannan, "When Donation Meets Reward: An Empirical Examination of Contribution Dynamics in Crowdfunding", Research in Progress.
 
 Y. Deng, Z. Wei, and K. Kannan, "Dockless Bike Sharing: Convenience or Congestion? Evidence on Air Quality and Housing Prices", Research in Progress.
 
-Y. Deng, A. Cortes Selva, and D. Zhang, "Discrimination Towards Chinese Products in COVID19: Evidence from Amazon", Research in Progress.
+Y. Deng, A. Cortes Selva, and D. Zhang, "COVID19 and Consumer Animus Towards Chinese Products: Evidence from Amazon Data", Research in Progress.
+
+Y. Xia, W. Wang, Y. Deng, and Y. Liu, "Virtual or Reality? Estimate the Impact of Immersive Features on Mobile Games", Research in Progress.
