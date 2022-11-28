@@ -42,7 +42,7 @@ selected = true
 tags = []
 
 # Links (optional).
-url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3460070"
+url_pdf = "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4238"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
