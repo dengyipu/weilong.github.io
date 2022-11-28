@@ -29,4 +29,4 @@ Instructor
 
 - **IIMT 3636**: Decision and Risk Analysis, University of Hong Kong, Spring 2022
 
-- Course Evaluation: 85/100
+- Course Evaluation: 85-90/100
