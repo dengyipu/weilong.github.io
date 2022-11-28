@@ -71,6 +71,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+**Kauffman Best Student Paper Award Runner-up**, _International Conference on Information Systems(ICIS)_, 2020
+
+**Best Dissertation Proposal Award Nomination**, _The Workshop on Information Technologies and Systems(WITS)_, 2020
 
 **Certificate for Outstanding Research**, _Purdue University_, 2019&2020
 
