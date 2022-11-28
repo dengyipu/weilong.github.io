@@ -65,7 +65,7 @@ user_groups:
 - Visitors
 ---
 
-I am an assistant professor in [Innovation and Information Management](https://www.fbe.hku.hk/people/faculty?pg=1&staff_type=faculty&subject_area=innovation-and-information-management&track=professoriate) at HKU Business School. I am fortunately advised by Professor [Karthik Kannan](https://www.krannert.purdue.edu/faculty/kkarthik/) and [Jinyang Zheng](https://www.krannert.purdue.edu/faculty/zheng221/) from [Krannert School of Management](https://krannert.purdue.edu/) at Purdue University.
+I am an assistant professor in [Innovation and Information Management](https://www.fbe.hku.hk/people/faculty?pg=1&staff_type=faculty&subject_area=innovation-and-information-management&track=professoriate) at HKU Business School. I am fortunately advised by Professor [Karthik Kannan](https://provost.arizona.edu/person/karthik-kannan) and [Jinyang Zheng](https://www.krannert.purdue.edu/faculty/zheng221/) from [Krannert School of Management](https://krannert.purdue.edu/) at Purdue University.
 
 My research is about the dynamics of human behaviors in the machine-platform-crowd transformation. I use machine learning, econometrics, and structural modeling methods to study the transformational impacts of information technology on human behaviors.  
 
