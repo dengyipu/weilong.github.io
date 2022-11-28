@@ -1,6 +1,6 @@
 +++
 title = "Let Artificial Intelligence Be Your Shelf Watchdog: The Impact of Intelligent Image Processing-powered Shelf Monitoring on Product Sales"
-date = 2021-08-17T00:00:00
+date = 2022-08-17T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
