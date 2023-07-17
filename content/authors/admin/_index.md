@@ -69,3 +69,4 @@ I am an assistant professor in [Innovation and Information Management](https://w
 
 My research is about the dynamics of human behaviors in the machine-platform-crowd transformation. I use machine learning, econometrics, and structural modeling methods to study the transformational impacts of information technology on human behaviors.  
 
+##I am currently seeking self-motivated PhD students and research assistants to join my team!
