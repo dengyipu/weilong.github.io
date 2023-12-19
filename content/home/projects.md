@@ -79,7 +79,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Y. Deng, J. Zheng, G. Li, and K. Kannan, "When Donation Meets Reward: An Empirical Examination of Contribution Dynamics in Crowdfunding", Research in Progress.
+Y. Deng, J. Zheng, G. Li, and K. Kannan, "When Reward Meets Donation", Research in Progress.
 
 Y. Deng, Z. Wei, and K. Kannan, "Dockless Bike Sharing: Convenience or Congestion? Evidence on Air Quality and Housing Prices", Research in Progress.
 
