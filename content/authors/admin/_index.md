@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor in Management Information System
+role: Assistant Professor in Management Information Systems
 
 # Organizations/Affiliations
 organizations:
@@ -18,17 +18,15 @@ organizations:
   url: "https://www.fbe.hku.hk/"
 
 interests:
-- Crowdfunding
 - Economics of AI
-- User-generated Content
-- Sharing Economy
+- Platform Management (e.g., UGC, Crowdfunding, Healthcare, Live commerce)
 
 education:
   courses:
-  - course: Ph.D. in Management Information System
+  - course: Ph.D. in Management Information Systems
     institution: Purdue University
     year: 2021
-  - course: B.B.A. in Management Information System
+  - course: B.B.A. in Management Information Systems
     institution: Shanghai University of Finance and Economics
     year: 2016
 
