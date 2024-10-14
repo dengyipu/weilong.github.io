@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "**MIS Quarterly**"
-publication_short = "**MIS Quarterly** 47(3), 2023"
+publication_short = "**MIS Quarterly** 47(3)"
 
 # Abstract and optional shortened version.
 abstract = "We collaborate with a leading fast-moving consumer goods (FMCG) manufacturer to investigate how intelligent image processing (IIP)-based shelf monitoring aids manufacturers' shelf management by using data from a quasi-experiment and a field experiment. We discover that such artificial intelligence (AI) assistance significantly and consistently improves product sales. Several underlying mechanisms are revealed by our quantitative and qualitative analysis. First, retailers are more likely to comply due to the greater monitoring effectiveness enabled by AI assistance. Second, the positive effect of IIP-based shelf monitoring partially persists after it is terminated, implying that human learning takes place. Third, the value of IIP-based shelf monitoring can be attributed to independent retailers rather than chain retailers. Since the degree of contract heterogeneity is the major difference between these retailers in terms of monitoring, this finding further suggests that AI is relatively more scalable when coping with more heterogeneous instances. Apart from these great benefits, we demonstrate the low marginal costs of implementing IIP-powered shelf monitoring, which indicates its long-term applicability and potential to generate incremental value. Our research contributes to several literature streams as well as provides managerial insights for practitioners who consider AI-assisted operational models."
