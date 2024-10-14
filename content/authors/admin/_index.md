@@ -19,7 +19,7 @@ organizations:
 
 interests:
 - Economics of AI
-- Platform Management (e.g., UGC, Crowdfunding, Healthcare, Live commerce)
+- Platform Management (e.g., UGC, Crowdfunding, Education, Healthcare, Live commerce)
 
 education:
   courses:
