@@ -42,7 +42,7 @@ selected = true
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://misq.umn.edu/let-artificial-intelligence-be-your-shelf-watchdog-the-impact-of-intelligent-image-processing-powered-shelf-monitoring-on-product-sales.html"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
