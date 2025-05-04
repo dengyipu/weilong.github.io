@@ -83,9 +83,6 @@ Y. Deng, J. Zheng, G. Li, and K. Kannan, "When Reward Meets Donation", Research 
 
 Y. Deng, J. Zheng, G. Li, and K. Kannan, "Unlocking the Power Durability of Livestream Selling", Research in Progress.
 
-A. Wang, Y. Deng, J. Zhao, J. Chu, "Grateful Tips or Hidden Costs: The Impact of Monetary Gifts on Patient Decision-Making", Research in Progress.
-
 Y. Yin, Y. Deng, X. Lei, "Taste of Free Lunch: The Impact of Free Product Disclosure on Review Dynamics", Research in Progress.
 
-A. Cortes Selva, Y. Deng, and D. Zhang, "COVID19 and Consumer Animus Towards Chinese Products: Evidence from Amazon Data", Revise and Resubmit at Journal of Economic Behavior and Organization (JEBO).
-
+S. Liang, X. Zhang, Y. Deng, Y. Fang, "When Artificial Intelligence Speaks, Humans Respond: The Impact of AI-generated Answers on User Contributions", Research in Progress.
