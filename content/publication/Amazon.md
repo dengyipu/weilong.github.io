@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "**Journal of Economic Behavior and Organization**"
-publication_short = "**JEBO"
+publication_short = "**JEBO**"
 
 # Abstract and optional shortened version.
 abstract = "We tracked all facemasks sold on Amazon from Sep. 2019 to Sep. 2020 and analyzed seller-generated product information as well as user-generated reviews. Using a fully dynamic event study we found the average user rating of a facemask dropped significantly following the first consumer review or question and answer stating it was made in China, but not of other countries. This drop expanded in the first three weeks after the identification of Chinese products but then gradually faded out within twelve weeks. The U-shape post identification is explained by a review’s direct (its own rating) and indirect (other consumers’ ratings) impact on average rating and is driven by Chinese products with high reputation. By analyzing consumer reviews, we provided strong evidence that the drop in average rating was driven by consumer animus to China and Chinese products rather than product quality or shipping."
