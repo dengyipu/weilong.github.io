@@ -42,7 +42,7 @@ selected = true
 tags = []
 
 # Links (optional).
-url_pdf = "https://danyangzhang.com/wp-content/uploads/2025/02/covid-and-animus-on-amazon_jebo.pdf"
+url_pdf = "https://authors.elsevier.com/a/1l5Vuc24bB4Uy"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
