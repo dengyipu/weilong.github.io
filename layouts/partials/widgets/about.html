@@ -1,0 +1,103 @@
+{{ $page := .wcPage }}
+{{ $author := .author }}
+
+{{ if not $author }}
+  {{ with $page.Params.author }}
+    {{ $author = . }}
+  {{ end }}
+{{ end }}
+
+{{ if not $author }}
+  {{ $author = "admin" }}
+{{ end }}
+
+{{ $author_page_path := printf "/authors/%s" $author }}
+{{ $author_page := site.GetPage $author_page_path }}
+
+{{ if not $author_page }}
+  {{ $author = "admin" }}
+  {{ $author_page_path = printf "/authors/%s" $author }}
+  {{ $author_page = site.GetPage $author_page_path }}
+{{ end }}
+
+{{ with $author_page }}
+<section id="{{ $.wcIdentifier }}" class="home-section wg-about {{ if $.wcPage.Params.design.background.image }}bg-image{{ end }}" {{ if $.wcPage.Params.design.background.image }}style="background-image: url('{{ $.wcPage.Params.design.background.image | relURL }}');"{{ end }}>
+  <div class="home-section-bg {{ $.wcPage.Params.design.background.color_class | default "" }}"></div>
+  <div class="container">
+
+    {{ with $.wcPage.Title }}<div class="row"><div class="col-12 col-lg-4 section-heading"><h1>{{ . | markdownify }}</h1></div></div>{{ end }}
+
+    <div class="row">
+      <div class="col-12 col-lg-4">
+        <div id="profile">
+
+          {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
+          {{ if $avatar }}
+          <img class="avatar avatar-circle" src="{{ ($avatar.Fill "270x270 Center").RelPermalink }}" alt="{{ .Title }}">
+          {{ end }}
+
+          <div class="portrait-title">
+            <h2>{{ .Params.name | default .Title }}</h2>
+            {{ with .Params.role }}<h3>{{ . | markdownify }}</h3>{{ end }}
+
+            {{ with .Params.organizations }}
+            <h3>
+              {{ range . }}
+              <span>{{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}{{ .name }}{{ if .url }}</a>{{ end }}</span>
+              {{ end }}
+            </h3>
+            {{ end }}
+          </div>
+
+          <ul class="network-icon" aria-hidden="true">
+            {{ range .Params.social }}
+            <li>
+              <a href="{{ .link | safeURL }}" {{ if not (hasPrefix .link "mailto:") }}target="_blank" rel="noopener"{{ end }}>
+                <i class="{{ .icon_pack }} fa-{{ .icon }}"></i>
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+
+        </div>
+      </div>
+
+      <div class="col-12 col-lg-8">
+        {{ with .Content }}<div class="article-style">{{ . }}</div>{{ end }}
+
+        <div class="row">
+
+          {{ with .Params.interests }}
+          <div class="col-md-5">
+            <h3>{{ i18n "interests" | default "Interests" }}</h3>
+            <ul class="ul-interests">
+              {{ range . }}
+              <li>{{ . | markdownify }}</li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+
+          {{ with .Params.education.courses }}
+          <div class="col-md-7">
+            <h3>{{ i18n "education" | default "Education" }}</h3>
+            <ul class="ul-edu fa-ul">
+              {{ range . }}
+              <li>
+                <i class="fa-li fas fa-graduation-cap"></i>
+                <div class="description">
+                  <p class="course">{{ .course }}</p>
+                  <p class="institution">{{ .institution }}{{ with .year }}, {{ . }}{{ end }}</p>
+                </div>
+              </li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
