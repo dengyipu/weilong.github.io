@@ -15,7 +15,7 @@ authors = ["A. Cortes Selva", "Y. Deng", "D. Zhang"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types : ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "**Journal of Economic Behavior and Organization**"
