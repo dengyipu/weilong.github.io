@@ -85,6 +85,6 @@ Y. Deng, J. Zheng, G. Li, and K. Kannan, "Unlocking the Power Durability of Live
 
 Y. Yin, Y. Deng, X. Lei, "Taste of Free Lunch: The Impact of Free Product Disclosure on Review Dynamics", Research in Progress.
 
-Y. Yin, Y. Deng, X. Lei, DJ Wu, "Point Redemption Design in Gamified Education", Research in Progress.
+Y. Yin, Y. Deng, X. Lei, D.J. Wu, "Point Redemption Design in Gamified Education", Research in Progress.
 
 S. Liang, X. Zhang, Y. Deng, Y. Fang, "When Artificial Intelligence Speaks, Humans Respond: The Impact of AI-generated Answers on User Contributions", Research in Progress.
